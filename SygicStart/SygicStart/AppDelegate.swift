@@ -14,6 +14,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             "Authentication": [
                 "app_key": NoCommitConstants.appKey // in case of error, see NoCommitConstants-TEMPLATE.txt
             ],
+            "License": [
+                "license_key": NoCommitConstants.licenseKey // in case of error, see NoCommitConstants-TEMPLATE.txt
+            ],
             "MapReaderSettings": [
                 "startup_online_maps_enabled": true
             ]

@@ -5,5 +5,5 @@ platform :ios, '13.0'
 
 target 'BasicRouting' do
   use_frameworks!
-  pod 'SygicMaps', '~>20.0'
+  pod 'SygicMaps', '~>21.0'
 end
