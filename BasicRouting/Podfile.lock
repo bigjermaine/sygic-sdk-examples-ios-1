@@ -7,7 +7,7 @@ DEPENDENCIES:
   - SygicMaps (~> 21.0)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - SygicAuth
     - SygicMaps
 
@@ -15,6 +15,6 @@ SPEC CHECKSUMS:
   SygicAuth: 4da5f99911c8244ef1cbfa72b77f72615b374684
   SygicMaps: 191ae8cff803e7e6e83529bafb1792c9fc374eed
 
-PODFILE CHECKSUM: d64b6ea38958118b9d6108c136394a693472644a
+PODFILE CHECKSUM: 2378e45846adf5c74ef3dda4ee341273d7478c0f
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.15.2
